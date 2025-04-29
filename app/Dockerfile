@@ -8,5 +8,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD ["python", "app/api/api.py"]
+CMD ["python", "api/main.py"]
 
