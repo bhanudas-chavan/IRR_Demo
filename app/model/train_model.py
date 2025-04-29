@@ -6,7 +6,7 @@ from collections import defaultdict, Counter
 import pickle
 import os
 
-def train_model(csv_path='app/data/incident_data_100.csv', n_clusters=15):
+def train_model(csv_path='data/incident_data_100.csv', n_clusters=15):
     # Load data
     incidents = pd.read_csv(csv_path)
     incidents['text'] = incidents['title'] + ' ' + incidents['description']
@@ -37,8 +37,8 @@ def train_model(csv_path='app/data/incident_data_100.csv', n_clusters=15):
         'summarized_resolutions': summarized_resolutions
     }
 
-    os.makedirs('app/saved_model', exist_ok=True)
-    with open('app/saved_model/model.pkl', 'wb') as f:
+    os.makedirs('saved_model', exist_ok=True)
+    with open('saved_model/model.pkl', 'wb') as f:
         pickle.dump(model_bundle, f)
 
 if __name__ == '__main__':
