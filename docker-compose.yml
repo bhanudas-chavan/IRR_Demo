@@ -1,0 +1,8 @@
+services:
+  recommender:
+    build: ./app
+    container_name: recommender_container
+    ports:
+      - "5000:5000"        # Flask runs on port 5000
+    volumes:
+      - ./app:/app         # Mount app folder for development/live reload

@@ -1,0 +1,101 @@
+title,description,resolution
+Email Delivery Issue,App crashes on launch on app server.,Blocked suspicious IPs
+SSL Certificate Expired,App slow during peak hours on app server.,Increased resource limits
+App Crash,App crashes on launch on user devices.,Applied hotfix
+Disk Full,Pod stuck in CrashLoopBackOff on web server.,Restarted service
+UI Bug,DNS resolution failed on app server.,Rolled back deployment
+Job Scheduler Error,App crashes on launch on app server.,Extended disk volume
+Disk Full,CPU usage spiked to 100% on user devices.,Upgraded server version
+SSL Certificate Expired,Third-party API request failing on user devices.,Blocked suspicious IPs
+Unauthorized Access,App slow during peak hours on payment service.,Restarted cron jobs
+App Crash,Scheduled jobs not running on web server.,Restarted cron jobs
+App Crash,Memory usage keeps growing on web server.,Blocked suspicious IPs
+Slow App Response,Service crashes on startup on web server.,Fixed configuration
+Unauthorized Access,App crashes on launch on database.,Optimized SQL query
+DNS Failure,Multiple failed login attempts on database.,Restarted cron jobs
+High CPU Usage,SSL expired causing browser warnings on user devices.,Restarted cron jobs
+Unauthorized Access,Emails not sent on web server.,Renewed SSL
+High CPU Usage,Vulnerability found in server on user devices.,Extended disk volume
+Unauthorized Access,Pod stuck in CrashLoopBackOff on payment service.,Restarted cron jobs
+DNS Failure,Scheduled jobs not running on payment service.,Increased resource limits
+App Crash,Service crashes on startup on payment service.,Rolled back deployment
+App Crash,Emails not sent on database.,Restarted service
+Job Scheduler Error,DB connection pool exhausted on app server.,Fixed configuration
+Cache Issue,DB connection pool exhausted on web server.,Fixed configuration
+Database Timeout,Pod stuck in CrashLoopBackOff on payment service.,Fixed configuration
+Cache Issue,Pod stuck in CrashLoopBackOff on payment service.,Upgraded server version
+Service Crash,Multiple failed login attempts on payment service.,Increased resource limits
+Sync Delay,Third-party API request failing on database.,Implemented retry logic
+Pod CrashLoop,Layout breaks on mobile on app server.,Extended disk volume
+DNS Failure,Third-party API request failing on app server.,Cleared cache
+Email Delivery Issue,Cache showing stale data on payment service.,Cleared cache
+Disk Full,App slow during peak hours on database.,Extended disk volume
+API Rate Limit,Emails not sent on payment service.,Rolled back deployment
+Slow App Response,Memory usage keeps growing on app server.,Blocked suspicious IPs
+App Crash,DNS resolution failed on database.,Updated SDK
+Service Crash,Emails not sent on database.,Restarted service
+Pod CrashLoop,App crashes on launch on user devices.,Extended disk volume
+Unauthorized Access,Replication delayed by hours on app server.,Restarted service
+Security Patch Needed,Pod stuck in CrashLoopBackOff on user devices.,Restarted service
+Cache Issue,Third-party API request failing on app server.,Updated SDK
+Security Patch Needed,Replication delayed by hours on web server.,Cleared cache
+DNS Failure,App crashes on launch on payment service.,Restarted cron jobs
+Security Patch Needed,DB connection pool exhausted on app server.,Renewed SSL
+Memory Leak,Vulnerability found in server on payment service.,Fixed configuration
+Sync Delay,SSL expired causing browser warnings on web server.,Fixed configuration
+Job Scheduler Error,Scheduled jobs not running on payment service.,Restarted mail server
+High CPU Usage,Users unable to log in via SSO on payment service.,Restarted mail server
+App Crash,DNS resolution failed on user devices.,Applied hotfix
+UI Bug,SSL expired causing browser warnings on web server.,Restarted mail server
+DNS Failure,Disk usage at 100% on database.,Rolled back deployment
+Slow App Response,DNS resolution failed on database.,Cleared cache
+Payment Failure,SSL expired causing browser warnings on user devices.,Updated SDK
+Service Crash,Multiple failed login attempts on payment service.,Implemented retry logic
+High CPU Usage,Third-party API request failing on user devices.,Upgraded server version
+Payment Failure,App crashes on launch on payment service.,Applied hotfix
+App Crash,App slow during peak hours on payment service.,Increased resource limits
+SSL Certificate Expired,CPU usage spiked to 100% on database.,Implemented retry logic
+Memory Leak,Vulnerability found in server on app server.,Implemented retry logic
+API Rate Limit,Disk usage at 100% on payment service.,Fixed configuration
+Job Scheduler Error,SSL expired causing browser warnings on user devices.,Updated SDK
+SSL Certificate Expired,Pod stuck in CrashLoopBackOff on database.,Restarted mail server
+Sync Delay,Pod stuck in CrashLoopBackOff on app server.,Upgraded server version
+DNS Failure,Multiple failed login attempts on app server.,Cleared cache
+Database Timeout,Users unable to log in via SSO on web server.,Upgraded server version
+Login Failure,Memory usage keeps growing on app server.,Restarted mail server
+Service Crash,Disk usage at 100% on app server.,Rolled back deployment
+SSL Certificate Expired,Scheduled jobs not running on payment service.,Fixed configuration
+App Crash,Cache showing stale data on app server.,Fixed configuration
+UI Bug,Memory usage keeps growing on app server.,Blocked suspicious IPs
+DNS Failure,Vulnerability found in server on database.,Implemented retry logic
+Unauthorized Access,Users unable to log in via SSO on web server.,Upgraded server version
+Security Patch Needed,Users unable to log in via SSO on web server.,Rolled back deployment
+Payment Failure,Vulnerability found in server on web server.,Rolled back deployment
+Unauthorized Access,Vulnerability found in server on web server.,Fixed configuration
+Service Crash,Scheduled jobs not running on web server.,Rolled back deployment
+Cache Issue,Pod stuck in CrashLoopBackOff on user devices.,Restarted service
+Slow App Response,Multiple failed login attempts on payment service.,Cleared cache
+Disk Full,Multiple failed login attempts on web server.,Fixed configuration
+Email Delivery Issue,Users unable to log in via SSO on database.,Applied hotfix
+Sync Delay,Service crashes on startup on user devices.,Cleared cache
+Unauthorized Access,App crashes on launch on user devices.,Cleared cache
+Memory Leak,Scheduled jobs not running on user devices.,Restarted cron jobs
+Memory Leak,App crashes on launch on web server.,Restarted service
+Disk Full,Memory usage keeps growing on app server.,Applied hotfix
+Cache Issue,DB connection pool exhausted on user devices.,Cleared cache
+DNS Failure,Multiple failed login attempts on app server.,Extended disk volume
+DNS Failure,Vulnerability found in server on payment service.,Upgraded server version
+Unauthorized Access,Emails not sent on user devices.,Applied hotfix
+SSL Certificate Expired,CPU usage spiked to 100% on database.,Updated SDK
+Job Scheduler Error,App crashes on launch on web server.,Optimized SQL query
+Slow App Response,DB connection pool exhausted on payment service.,Updated SDK
+Slow App Response,DNS resolution failed on web server.,Extended disk volume
+SSL Certificate Expired,Checkout failing on database.,Blocked suspicious IPs
+API Rate Limit,Pod stuck in CrashLoopBackOff on web server.,Restarted mail server
+App Crash,DB connection pool exhausted on user devices.,Fixed configuration
+Email Delivery Issue,Scheduled jobs not running on payment service.,Applied hotfix
+Memory Leak,Cache showing stale data on web server.,Restarted cron jobs
+Database Timeout,CPU usage spiked to 100% on database.,Upgraded server version
+API Rate Limit,Users unable to log in via SSO on database.,Rolled back deployment
+DNS Failure,Emails not sent on web server.,Extended disk volume
+Job Scheduler Error,App slow during peak hours on payment service.,Implemented retry logic
